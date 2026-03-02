@@ -1,0 +1,6 @@
+.metadata/
+Reports/
+target/
+node_modules/
+.idea/
+.env
