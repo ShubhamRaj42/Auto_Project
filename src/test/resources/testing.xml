@@ -1,0 +1,11 @@
+<suite name="Myntra PDP Suite" verbose="1">
+  <listeners>
+    <listener class-name="productdetailstest.com.utils.TestListener"/>
+  </listeners>
+
+  <test name="Product Detail Page Test">
+    <classes>
+      <class name="productdetailstest.com.tests.ProductDetailPageTest"/>
+    </classes>
+  </test>
+</suite>
