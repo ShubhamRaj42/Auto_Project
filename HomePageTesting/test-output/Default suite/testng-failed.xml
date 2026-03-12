@@ -8,6 +8,8 @@
           <include name="verifySortByPriceLowAndHigh"/>
           <include name="setup"/>
           <include name="tearDown"/>
+          <include name="startReport"/>
+          <include name="generateReport"/>
         </methods>
       </class> <!-- FilterSortCaptureVerify.com.pages.SortByPriceTest -->
     </classes>
