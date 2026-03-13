@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MyntraSearchSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="PositiveSearchTests(failed)">
+    <classes>
+      <class name="tests.SearchTests">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="searchLowercase"/>
+          <include name="searchWithProductName"/>
+          <include name="searchWithCategory"/>
+          <include name="searchUppercase"/>
+          <include name="searchWithPartialKeyword"/>
+          <include name="searchWithBrand"/>
+          <include name="searchMixedCase"/>
+        </methods>
+      </class> <!-- tests.SearchTests -->
+    </classes>
+  </test> <!-- PositiveSearchTests(failed) -->
+  <test thread-count="5" name="NegativeSearchTests(failed)">
+    <classes>
+      <class name="tests.NegativeSearchTests">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="scriptTagSearch"/>
+          <include name="sqlInjectionSearch"/>
+          <include name="numbersOnlySearch"/>
+          <include name="specialCharactersSearch"/>
+          <include name="randomTextSearch"/>
+        </methods>
+      </class> <!-- tests.NegativeSearchTests -->
+    </classes>
+  </test> <!-- NegativeSearchTests(failed) -->
+</suite> <!-- Failed suite [MyntraSearchSuite] -->

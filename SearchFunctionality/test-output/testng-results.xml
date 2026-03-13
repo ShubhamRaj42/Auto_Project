@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-13T14:46:54 IST" name="MyntraSearchSuite" finished-at="2026-03-13T14:47:51 IST" duration-ms="57022">
+    <groups>
+    </groups>
+    <test started-at="2026-03-13T14:46:54 IST" name="PositiveSearchTests" finished-at="2026-03-13T14:47:33 IST" duration-ms="38196">
+      <class name="tests.SearchTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:46:54 IST" name="setup" finished-at="2026-03-13T14:46:59 IST" duration-ms="4859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchLowercase()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:46:59 IST" name="searchLowercase" finished-at="2026-03-13T14:47:02 IST" duration-ms="2361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchLowercase -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:02 IST" name="teardown" finished-at="2026-03-13T14:47:02 IST" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:02 IST" name="setup" finished-at="2026-03-13T14:47:05 IST" duration-ms="3348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchMixedCase()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:05 IST" name="searchMixedCase" finished-at="2026-03-13T14:47:07 IST" duration-ms="2100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchMixedCase -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:07 IST" name="teardown" finished-at="2026-03-13T14:47:08 IST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:08 IST" name="setup" finished-at="2026-03-13T14:47:11 IST" duration-ms="3922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchUppercase()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:11 IST" name="searchUppercase" finished-at="2026-03-13T14:47:14 IST" duration-ms="2420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchUppercase -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:14 IST" name="teardown" finished-at="2026-03-13T14:47:14 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:14 IST" name="setup" finished-at="2026-03-13T14:47:17 IST" duration-ms="2676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchWithBrand()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:17 IST" name="searchWithBrand" finished-at="2026-03-13T14:47:19 IST" duration-ms="1966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithBrand -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:19 IST" name="teardown" finished-at="2026-03-13T14:47:19 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:19 IST" name="setup" finished-at="2026-03-13T14:47:22 IST" duration-ms="2938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchWithCategory()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:22 IST" name="searchWithCategory" finished-at="2026-03-13T14:47:23 IST" duration-ms="1659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithCategory -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:23 IST" name="teardown" finished-at="2026-03-13T14:47:24 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:24 IST" name="setup" finished-at="2026-03-13T14:47:27 IST" duration-ms="3036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchWithPartialKeyword()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:27 IST" name="searchWithPartialKeyword" finished-at="2026-03-13T14:47:28 IST" duration-ms="1561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithPartialKeyword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:28 IST" name="teardown" finished-at="2026-03-13T14:47:28 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:28 IST" name="setup" finished-at="2026-03-13T14:47:31 IST" duration-ms="2278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchWithProductName()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:31 IST" name="searchWithProductName" finished-at="2026-03-13T14:47:32 IST" duration-ms="1903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithProductName -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.SearchTests@128d2484]" started-at="2026-03-13T14:47:32 IST" name="teardown" finished-at="2026-03-13T14:47:33 IST" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.SearchTests -->
+    </test> <!-- PositiveSearchTests -->
+    <test started-at="2026-03-13T14:47:33 IST" name="NegativeSearchTests" finished-at="2026-03-13T14:47:51 IST" duration-ms="18814">
+      <class name="tests.NegativeSearchTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.NegativeSearchTests@26794848]" started-at="2026-03-13T14:47:33 IST" name="setup" finished-at="2026-03-13T14:47:35 IST" duration-ms="2307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="numbersOnlySearch()[pri:0, instance:tests.NegativeSearchTests@26794848]" started-at="2026-03-13T14:47:35 IST" name="numbersOnlySearch" finished-at="2026-03-13T14:47:36 IST" duration-ms="1176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- numbersOnlySearch -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.NegativeSearchTests@26794848]" started-at="2026-03-13T14:47:36 IST" name="teardown" finished-at="2026-03-13T14:47:36 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.NegativeSearchTests@26794848]" started-at="2026-03-13T14:47:36 IST" name="setup" finished-at="2026-03-13T14:47:39 IST" duration-ms="2384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="randomTextSearch()[pri:0, instance:tests.NegativeSearchTests@26794848]" started-at="2026-03-13T14:47:39 IST" name="randomTextSearch" finished-at="2026-03-13T14:47:40 IST" duration-ms="1491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- randomTextSearch -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.NegativeSearchTests@26794848]" started-at="2026-03-13T14:47:40 IST" name="teardown" finished-at="2026-03-13T14:47:40 IST" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.NegativeSearchTests@26794848]" started-at="2026-03-13T14:47:40 IST" name="setup" finished-at="2026-03-13T14:47:43 IST" duration-ms="3244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scriptTagSearch()[pri:0, instance:tests.NegativeSearchTests@26794848]" started-at="2026-03-13T14:47:43 IST" name="scriptTagSearch" finished-at="2026-03-13T14:47:44 IST" duration-ms="462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scriptTagSearch -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.NegativeSearchTests@26794848]" started-at="2026-03-13T14:47:44 IST" name="teardown" finished-at="2026-03-13T14:47:44 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.NegativeSearchTests@26794848]" started-at="2026-03-13T14:47:44 IST" name="setup" finished-at="2026-03-13T14:47:47 IST" duration-ms="2587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="specialCharactersSearch()[pri:0, instance:tests.NegativeSearchTests@26794848]" started-at="2026-03-13T14:47:47 IST" name="specialCharactersSearch" finished-at="2026-03-13T14:47:48 IST" duration-ms="1423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- specialCharactersSearch -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.NegativeSearchTests@26794848]" started-at="2026-03-13T14:47:48 IST" name="teardown" finished-at="2026-03-13T14:47:48 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.NegativeSearchTests@26794848]" started-at="2026-03-13T14:47:48 IST" name="setup" finished-at="2026-03-13T14:47:51 IST" duration-ms="2616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="sqlInjectionSearch()[pri:0, instance:tests.NegativeSearchTests@26794848]" started-at="2026-03-13T14:47:51 IST" name="sqlInjectionSearch" finished-at="2026-03-13T14:47:51 IST" duration-ms="405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sqlInjectionSearch -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.NegativeSearchTests@26794848]" started-at="2026-03-13T14:47:51 IST" name="teardown" finished-at="2026-03-13T14:47:51 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.NegativeSearchTests -->
+    </test> <!-- NegativeSearchTests -->
+  </suite> <!-- MyntraSearchSuite -->
+</testng-results>

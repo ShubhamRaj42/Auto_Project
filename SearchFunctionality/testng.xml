@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="MyntraSearchSuite">
+
+    <test name="PositiveSearchTests">
+
+        <classes>
+            <class name="tests.SearchTests"/>
+        </classes>
+
+    </test>
+
+    <test name="NegativeSearchTests">
+
+        <classes>
+            
+            <class name="tests.NegativeSearchTests"/>
+        </classes>
+
+    </test>
+
+</suite>
