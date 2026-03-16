@@ -1,0 +1,7 @@
+.metadata/
+Reports/
+target/
+node_modules/
+.idea/
+.env
+HomePageTesting/test-output
